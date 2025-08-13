@@ -1,1 +1,1 @@
-# Electroencephalogram-EEG-Signal-Analysis-Using-Python
+# Electroencephalogram (EEG) Signal Analysis and Visualization Using Python
